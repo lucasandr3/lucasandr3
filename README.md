@@ -1,6 +1,5 @@
 ### Olá, Seja Bem Vindo por aqui!!! 👋
 
-- 🔭 Hoje Trabalho com back-end
 - 🌱 Horas vagas como Freela
 - 👯 Trabalho atual Licitanet
 
